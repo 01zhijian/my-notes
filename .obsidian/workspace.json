@@ -1,0 +1,146 @@
+{
+  "main": {
+    "id": "9b489767c2f8c8a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "53c7f5532ad675a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0bc9a6ebc2bd65d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "索引/编程学习.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e0a3b7dabcdbdee8",
+    "type": "split",
+    "children": [
+      {
+        "id": "c148bce6719a8544",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90f155baf681fa40",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3a7b92973076aff8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ccca5b7dd41a6377",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "298c472a99bc2b3c",
+    "type": "split",
+    "children": [
+      {
+        "id": "921a8dde8a080438",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1cbcdba75b4e3342",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "索引/编程学习.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4cb68df02a03cd3f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "索引/编程学习.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "610868b46d6749cb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f5c98de405e86951",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "索引/编程学习.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0bc9a6ebc2bd65d5",
+  "lastOpenFiles": [
+    "笔记/未命名 1.md",
+    "未命名.md",
+    "索引/编程学习.md",
+    "索引/写作.md"
+  ]
+}
